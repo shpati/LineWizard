@@ -1,7 +1,7 @@
-# Line Wizard v0.1
-VBScript for PSPad. 
+# Line Wizard v0.1 (PSPad extension)
+VBScript for PSPad. Tested on PSPad 5.0.7 (32bit).
 
-Useful commands for text modifications, such as:
+This extension contains useful commands for text modifications, such as:
 
 Add text at the start of each line...  
 Add text at the end of each line...  
