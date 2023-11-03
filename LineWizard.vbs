@@ -148,6 +148,7 @@ end Sub
 
 Sub RemoveFirstWord
     ChangeEachLine("remove first word")
+    ChangeEachLine("remove leading spaces")
 end Sub
 
 Sub RemoveLastWord
