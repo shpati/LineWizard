@@ -27,6 +27,7 @@ Find and Replace text...
 
 # How to use
 
-Open the to the PSPad folder. Copy the LineWizard.vbs file inside the Script\VBScript folder.  
+Open the folder where PSPad is installed.  
+Copy the LineWizard.vbs file inside the Script\VBScript folder.  
 Restart PSPad and go to the Scripts menu where you will find the Line Wizard group of commands.  
-Script usage within PSPad must be enable for the file to load.  
+Note that script usage within PSPad must be enabled for the file to load.  
